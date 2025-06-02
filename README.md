@@ -181,7 +181,7 @@ This SLAM system provides standard ROS2 topics:
 
 ## 📝 License
 
-Licensed under the Apache License, Version 2.0. See the License for details.
+Licensed under the BSD 3-Clause "New" or "Revised" License See the License for details.
 
 ## 🤝 Contributing
 
